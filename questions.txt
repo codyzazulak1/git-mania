@@ -1,0 +1,9 @@
+Question 1: During this linear process, where Dev B changed the document after Dev A had already committed and pushed their change to the remote (github), what extra step(s) could Developer B have taken to completely avoid this merge conflict?
+
+Answer: They could pull changes before starting and before pushing.
+
+Question 2: Given your answer in Q1, does this mean that merge conflicts can be completely (always) avoided in the real world? Why or why not?
+
+Answer: They could pull changes every morning upon arriving at work and before pushing after finishing tasks.
+
+:)
